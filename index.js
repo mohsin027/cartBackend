@@ -18,7 +18,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://localhost:5173",
-      "https://cartbackend-ie4v.onrender.com"
+      "https://cartfrontend.onrender.com"
     ],
   })
 );
